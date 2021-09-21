@@ -1,2 +1,3 @@
-this the first file for git practice
+1.this the first file for git practice
 
+2.second commit
